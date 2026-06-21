@@ -67,6 +67,7 @@
 <img src="https://img.shields.io/badge/Generative%20AI-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 
 **Data & Visualization**
+
 <img src="https://skillicons.dev/icons?i=powerbi" />
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
