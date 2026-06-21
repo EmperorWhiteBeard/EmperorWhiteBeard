@@ -29,7 +29,7 @@
 
 ## 🧭 About Me
 
-- 🎓 Final-year **BCA** student at University of Calicut, Paramekkav College of Arts and Science, Thrissur
+- 🎓  **BCA** Graduate From University of Calicut, Paramekkav College of Arts and Science, Thrissur
 - ☁️ Passionate about **DevOps, Cloud Engineering, and Site Reliability**
 - 🏗️ Currently building hands-on projects in **CI/CD, Containerization, and Infrastructure as Code**
 - 📜 **AWS** & **Cisco** certified — committed to continuous upskilling
